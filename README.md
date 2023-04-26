@@ -70,31 +70,26 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **key_feature_1**
-- **key_feature_2**
-- **key_feature_3**
+- **Heading included**
+- **Background color added**
+- **Text color applied**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-
 ## 🚀 Live Demo <a name="live-demo"></a>
-
-> Project linked below.
-
-- [Hello-Microverse](https://github.com/joshield/Hello-Microverse)
+### Live Demo currently not available, but you can access the project here: [Hello-Microverse](https://github.com/joshield/Hello-Microverse)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Just open and view
 
-To get a local copy up and running, follow these steps:
+
+### To get a local copy up and running, follow these steps:
+- git clone https://github.com/joshield/Hello-Microverse.git
+- cd Hello-Microverse
 
 ### Prerequisites
 
